@@ -4,7 +4,7 @@
 如有任何建议与及意见，请联系如下邮箱
 fei.liu@br-automation.com
 ```
-You can download the [Engineering Camp Main Trainer Guide_V1.24](http://www.baidu.com/) to maintain and preview the content for your website in Markdown files.
+You can download the [TM210 AS基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM210TRE.00-ZHO_Automation%20Studio%E5%9F%BA%E7%A1%80_V4225.pdf) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
