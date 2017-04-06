@@ -20,6 +20,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 #### TM2XX（基础控制）
+ [TM210 AS基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM210TRE.00-ZHO_Automation%20Studio%E5%9F%BA%E7%A1%80_V4225.pdf)  
 #### TM4XX（运动控制）
 #### TM6XX(人机界面）
 #### TM9XX（终端用户维护）
