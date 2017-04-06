@@ -1,4 +1,8 @@
 ## 欢迎进入贝加莱资料共享平台
+```markdown
+本平台目的：本平台旨在为贝加莱使用者提供便捷的资料下载途径，如有任何建议与及意见，请联系如下邮箱
+fei.liu@br-automation.com
+```
 You can download the [Engineering Camp Main Trainer Guide_V1.24](http://www.baidu.com/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -7,12 +11,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
