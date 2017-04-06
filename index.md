@@ -7,11 +7,9 @@ You can download the [Engineering Camp Main Trainer Guide_V1.24](http://www.baid
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
+### 培训手册 TM系列
+贝加莱的培训手册是基于TM（Training Module）设计的。
+按照不同的主题系列划分为TM2XX（基础控制），TM4XX(运动控制），和TM6XX（人机界面）还有TM9XX（终端用户维护）等不同主题。
 - Bulleted
 - List
 
