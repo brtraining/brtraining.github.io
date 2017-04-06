@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can download the [Engineering Camp Main Trainer Guide_V1.24](https://github.com/brtraining/brtraining.github.com/raw/master/Engineering%20Camp%20Main%20Trainer%20Guide_V1.24.pdf) to maintain and preview the content for your website in Markdown files.
+You can download the [Engineering Camp Main Trainer Guide_V1.24](www.baidu.com) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
