@@ -19,7 +19,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Link](url) and ![Image]
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-# TM2XX（基础控制）
+#### TM2XX（基础控制）
 # TM4XX（运动控制）
 # TM6XX(人机界面）
 # TM9XX（终端用户维护）
