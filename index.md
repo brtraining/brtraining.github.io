@@ -43,7 +43,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 [TM441_多轴功能函数](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM441TRE.00_ZHO_%E5%A4%9A%E8%BD%B4%E5%8A%9F%E8%83%BD%E5%87%BD%E6%95%B0_V3090.pdf)
 
 #### TM6XX(人机界面）
-[TM610_界面基础] (https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM610TRE.30-ZHO_ASiV%E7%9A%84%E5%9F%BA%E7%A1%80_V3090.pdf)
+[TM610_界面基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM610TRE.30-ZHO_ASiV%E7%9A%84%E5%9F%BA%E7%A1%80_V3090.pdf)
 
 [TM640_报警，趋势图和诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM640TRE.30_ZHO_%E6%8A%A5%E8%AD%A6%EF%BC%8C%E8%B6%8B%E5%8A%BF%E5%9B%BE%E5%92%8C%E8%AF%8A%E6%96%AD_V3090.pdf)
 
