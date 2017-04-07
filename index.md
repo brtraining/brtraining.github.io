@@ -20,11 +20,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 #### TM2XX（基础控制）
- [TM210_AS基础](https://www.baidu.com/)
- [TM213_AS操作系统]()
- [TM223_AS诊断]()
- [TM240_梯形图]()
- [TM246_结构化文本]()
+ [TM210_AS基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM210TRE.00-ZHO_Automation%20Studio%E5%9F%BA%E7%A1%80_V4225.pdf)
+ 
+ [TM213_AS操作系统](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM213TRE.30-ZHO_Automation%20Studio%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F_V3090.pdf)
+
+ [TM223_AS诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM223TRE.30-ZHO_Automation%20Studio%E8%AF%8A%E6%96%AD_V3090.pdf)
+
+ [TM240_梯形图](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM240TRE.00_%E6%A2%AF%E5%BD%A2%E5%9B%BE_V3090.pdf)
+
+ [TM246_结构化文本](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM246TRE.00_%E7%BB%93%E6%9E%84%E5%8C%96%E6%96%87%E6%9C%AC_V3090.pdf)
+
  [TM250_AS内存管理与数据存储](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM250TRE.00_Automation%20Studio%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8_V4010.pdf)
 #### TM4XX（运动控制）
 [TM410]
