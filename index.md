@@ -5,6 +5,7 @@
 fei.liu@br-automation.com
 ```
 
+
 [TM240AS基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM240TRE.00_%E6%A2%AF%E5%BD%A2%E5%9B%BE_V3090.pdf) 
 
 [TM246](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM246TRE.00_%E7%BB%93%E6%9E%84%E5%8C%96%E6%96%87%E6%9C%AC_V3090.pdf) 
@@ -17,6 +18,8 @@ fei.liu@br-automation.com
 
 
 [TM640_报警，趋势图和诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM640TRE.30_ZHO_%E6%8A%A5%E8%AD%A6%EF%BC%8C%E8%B6%8B%E5%8A%BF%E5%9B%BE%E5%92%8C%E8%AF%8A%E6%96%AD_V3090.pdf)
+
+
 
 
 ## 培训手册 TM系列
@@ -37,9 +40,9 @@ TM2XX系列为PLC与IO相关内容的培训手册，其中TM210最为基础与�
 
 [TM223_AS诊断工具](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM223TRE.30-ZHO_Automation%20Studio%E8%AF%8A%E6%96%AD_V3090.pdf).
 
-[TM240_梯形图](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM240TRE.00_%E6%A2%AF%E5%BD%A2%E5%9B%BE_V3090.pdf).
+[TM240_梯形图](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM210TRE.00-ZHO_Automation%20Studio%E5%9F%BA%E7%A1%80_V4225.pdf/).
 
-[TM246_结构化文本](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM246TRE.00_%E7%BB%93%E6%9E%84%E5%8C%96%E6%96%87%E6%9C%AC_V3090.pdf).
+[TM246_结构化文本](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM246TRE.00_%E7%BB%93%E6%9E%84%E5%8C%96%E6%96%87%E6%9C%AC_V3090.pdf)
 
 [TM250_AS内存管理与数据存储](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM250TRE.00_Automation%20Studio%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8_V4010.pdf).
 
