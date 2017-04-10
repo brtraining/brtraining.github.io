@@ -56,6 +56,12 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 
 [TM923_通过AS维护与诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM9XX_ZHO/TM923TRE.40_ZHO_USE%20Automation%20Studio%E8%AF%8A%E6%96%AD%E5%92%8C%E6%9C%8D%E5%8A%A1_V4000.pdf)
 
+
+### 友情链接
+[贝加莱官网](https://www.br-automation.com/)
+
+[贝加莱优酷订阅号](http://i.youku.com/i/UMjg4NzExMTMwOA==?spm=a2h0j.8191423.subscription_wrap.DD~A)
+
 ### 特别鸣谢
 
 本平台由95后实习生沈同学全力帮助才得以实现。为表感谢，等他学成归来，手工种植的苹果畅吃 ：）
