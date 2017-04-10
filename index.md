@@ -4,7 +4,7 @@
 如有任何建议与及意见，请联系如下邮箱
 fei.liu@br-automation.com
 ```
-You can download the [TM210 AS基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM210TRE.00-ZHO_Automation%20Studio%E5%9F%BA%E7%A1%80_V4225.pdf) to maintain and preview the content for your website in Markdown files.
+You can download the [TM210 AS基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM246TRE.00_%E7%BB%93%E6%9E%84%E5%8C%96%E6%96%87%E6%9C%AC_V3090.pdf) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
