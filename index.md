@@ -43,16 +43,19 @@ TM4XX系列为运动相关的培训手册，主要介绍伺服运动的配置和
 
 #### TM6XX(人机界面）
 
-
+TM6XX系列为人机界面相关培训手册，主要用于介绍上位界面的配置和编辑。TM610为此系列文档中的基础文档。通过TM610，你可以了解到如何在AS中配置人机界面，并且学会制作一个简单的画面。
 [TM610_界面基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM610TRE.30-ZHO_ASiV%E7%9A%84%E5%9F%BA%E7%A1%80_V3090.pdf)
 
 [TM640_报警，趋势图和诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM640TRE.30_ZHO%E6%8A%A5%E8%AD%A6%EF%BC%8C%E8%B6%8B%E5%8A%BF%E5%9B%BE%E5%92%8C%E8%AF%8A%E6%96%AD_V3090.pdf)
 
 #### TM9XX（终端用户维护）
+TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。即便你没有源程序，也仍旧可以通过本系列文档做出简单的维护与诊断，非常有助于排故。TM920介绍的是客户连AS都没有的情况下都可以实现的维护诊断方法。TM923则更深入一步，需要客户安装AS，然后借由AS来对项目实现维护与诊断的工作。（特别注意：装了AS也不能够实现PLC的源程序上载）。
 [TM920_终端用户维护](https://github.com/brtraining/brtraining.github.com/raw/master/TM9XX_ZHO/TM920TRE.00-ZHO%E8%AF%8A%E6%96%AD%E4%B8%8E%E7%BB%88%E7%AB%AF%E7%94%A8%E6%88%B7%E6%9C%8D%E5%8A%A1.pdf)
 
 [TM923_通过AS维护与诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM9XX_ZHO/TM923TRE.40_ZHO_USE%20Automation%20Studio%E8%AF%8A%E6%96%AD%E5%92%8C%E6%9C%8D%E5%8A%A1_V4000.pdf)
 
-### Support or Contact
+### 特别鸣谢
+
+本平台由95后实习生沈同学全力帮助才得以实现。为表感谢，等他学成归来，手工种植的苹果畅吃 ：）
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
