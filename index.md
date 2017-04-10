@@ -4,9 +4,20 @@
 如有任何建议与及意见，请联系如下邮箱
 fei.liu@br-automation.com
 ```
-You can download the [TM210 AS基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM210TRE.00-ZHO_Automation%20Studio%E5%9F%BA%E7%A1%80_V4225.pdf) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[TM240AS基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM240TRE.00_%E6%A2%AF%E5%BD%A2%E5%9B%BE_V3090.pdf) 
+
+[TM246](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM246TRE.00_%E7%BB%93%E6%9E%84%E5%8C%96%E6%96%87%E6%9C%AC_V3090.pdf) 
+
+[TM920_终端用户维护](https://github.com/brtraining/brtraining.github.com/raw/master/TM920TRE.00-ZHO_%E8%AF%8A%E6%96%AD%E4%B8%8E%E7%BB%88%E7%AB%AF%E7%94%A8%E6%88%B7%E6%9C%8D%E5%8A%A1.pdf)
+
+[TM923_通过AS维护与诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM923TRE.40_ZHO_%E4%BD%BF%E7%94%A8%20Automation%20Studio%E8%AF%8A%E6%96%AD%E5%92%8C%E6%9C%8D%E5%8A%A1_V4000.pdf)
+
+[TM441_多轴功能函数](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM441TRE.00_ZHO_%E5%A4%9A%E8%BD%B4%E5%8A%9F%E8%83%BD%E5%87%BD%E6%95%B0_V3090.pdf)
+
+
+[TM640_报警，趋势图和诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM640TRE.30_ZHO_%E6%8A%A5%E8%AD%A6%EF%BC%8C%E8%B6%8B%E5%8A%BF%E5%9B%BE%E5%92%8C%E8%AF%8A%E6%96%AD_V3090.pdf)
+
 
 ## 培训手册 TM系列
 贝加莱的培训手册是基于TM（Training Module）设计的。
