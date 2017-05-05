@@ -11,9 +11,7 @@ fei.liu@br-automation.com
 按照不同的主题系列划分为TM2XX（基础控制），TM4XX(运动控制），和TM6XX（人机界面）还有TM9XX（终端用户维护）等不同主题。
 下面提供的是所有系列的培训下载链接
 
-{% for post in paginator.posts %}
-    <a href="{{ post.url }}">{{ post.title }}</a>
-{% endfor %}
+
 
 
 #### TM2XX(基础控制)
@@ -68,6 +66,4 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 
 本平台由95后实习生沈同学全力帮助才得以实现。为表感谢，等他学成归来，手工种植的苹果畅吃 ：）
 
-{% for post in paginator.posts %}
-    <a href="{{ post.url }}">{{ post.title }}</a>
-{% endfor %}
+
