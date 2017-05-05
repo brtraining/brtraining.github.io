@@ -66,4 +66,6 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 
 本平台由95后实习生沈同学全力帮助才得以实现。为表感谢，等他学成归来，手工种植的苹果畅吃 ：）
 
-
+{% for post in paginator.posts %}
+    <a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
