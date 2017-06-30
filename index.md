@@ -63,7 +63,7 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 [贝加莱培训视屏](http://www.aiimooc.com/mall/list.php?catid=391)
 
 
-### 贝加莱编程软件Automation Studio下载
+###  贝加莱编程软件Automation Studio下载
 [下载链接](https://www.br-automation.com/zh/xia4zai3/software/automation-studio/automation-studio-43/dwldwl10000489725/)
 
 ### 友情链接
