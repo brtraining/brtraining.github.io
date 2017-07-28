@@ -66,6 +66,30 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 ###  贝加莱编程软件Automation Studio下载
 [下载链接](https://www.br-automation.com/zh/xia4zai3/software/automation-studio/automation-studio-43/dwldwl10000489725/)
 
+### 贝加莱选型手册专区
+以下为贝加莱产品选型专区，如有需要请尽情下载：）
+
+####大而全系列
+
+[2016产品选型手册 英文版]()
+[X20系列选型手册中文版]()
+
+####小而精系列
+
+[X20CP13系列不带REACTION手册英文版]()
+
+[X20CP13系列带REACTION手册英文版]()
+
+[X20CPx58x系列英文版]()
+
+[C70系列英文版]()
+
+[ACOPOS P3配置解析及配置案例V0.00]()
+
+
+
+
+
 ### 友情链接
 [贝加莱官网](https://www.br-automation.com/)
 
