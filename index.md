@@ -75,7 +75,8 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 #### 大而全系列
 
 [2016产品选型手册 英文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/Control%2C%20HMI%20%26%20Motion%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C2016.pdf)
-[X20系列选型手册中文版]()
+
+[X20系列选型手册中文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/X20%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C_%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 ####小而精系列
 
