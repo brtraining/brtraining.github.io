@@ -49,6 +49,9 @@ TM6XX系列为人机界面相关培训手册，主要用于介绍上位界面的
 
 [TM640_报警与趋势图和诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM640TRE.30_ZHO%E6%8A%A5%E8%AD%A6%EF%BC%8C%E8%B6%8B%E5%8A%BF%E5%9B%BE%E5%92%8C%E8%AF%8A%E6%96%AD_V3090.pdf)
 
+[TM611_MappView基础](https://github.com/brtraining/brtraining.github.com/blob/master/TM6XX_ZHO/TM611TRE.425_ZHO_MappView%E5%9F%BA%E7%A1%80.pdf)
+
+
 #### TM9XX（终端用户维护）
 TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。即便你没有源程序，也仍旧可以通过本系列文档做出简单的维护与诊断，非常有助于排故。TM920介绍的是客户连AS都没有的情况下都可以实现的维护诊断方法。TM923则更深入一步，需要客户安装AS，然后借由AS来对项目实现维护与诊断的工作。（特别注意：装了AS也不能够实现PLC的源程序上载）。
 
