@@ -78,9 +78,9 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 
 [X20系列选型手册中文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/X20%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C_%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
-####小而精系列
+#### 小而精系列
 
-[X20CP13系列不带REACTION手册英文版]()
+[X20CP13系列不带REACTION手册英文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/C70%E7%B3%BB%E5%88%97%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C%E8%8B%B1%E6%96%87%E7%89%88.pdf)
 
 [X20CP13系列带REACTION手册英文版]()
 
