@@ -80,15 +80,15 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 
 #### 小而精系列
 
-[X20CP13系列不带REACTION手册英文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/C70%E7%B3%BB%E5%88%97%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C%E8%8B%B1%E6%96%87%E7%89%88.pdf)
+[X20CP13系列不带REACTION手册英文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/X20CP13%E7%B3%BB%E5%88%97%E4%B8%8D%E5%B8%A6REACTION%E6%89%8B%E5%86%8C%E8%8B%B1%E6%96%87%E7%89%88.pdf)
 
-[X20CP13系列带REACTION手册英文版]()
+[X20CP13系列带REACTION手册英文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/X20CP13%E7%B3%BB%E5%88%97%E5%B8%A6REACTION%E6%89%8B%E5%86%8C%E8%8B%B1%E6%96%87%E7%89%88.pdf)
 
-[X20CPx58x系列英文版]()
+[X20CPx58x系列英文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/X20CPx58x-ENG.pdf)
 
-[C70系列英文版]()
+[C70系列英文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/C70%E7%B3%BB%E5%88%97%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C%E8%8B%B1%E6%96%87%E7%89%88.pdf)
 
-[ACOPOS P3配置解析及配置案例V0.00]()
+[ACOPOS P3配置解析及配置案例V0.00](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/ACOPOS%20P3%E9%85%8D%E7%BD%AE%E8%A7%A3%E6%9E%90%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%A1%88%E4%BE%8BV0.00.pdf)
 
 
 
