@@ -41,6 +41,9 @@ TM4XX系列为运动相关的培训手册，主要介绍伺服运动的配置和
 
 [TM441_多轴功能函数](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM441TRE.00_ZHO%E5%A4%9A%E8%BD%B4%E5%8A%9F%E8%83%BD%E5%87%BD%E6%95%B0_V3090.pdf)
 
+[TM450_ACOPOS Control Concept and Configuration 英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM450TRE.42-ENG_ACOPOS%20Control%20Concept%20and%20Configuration_V4200.pdf)
+
+
 #### TM6XX(人机界面）
 
 TM6XX系列为人机界面相关培训手册，主要用于介绍上位界面的配置和编辑。TM610为此系列文档中的基础文档。通过TM610，你可以了解到如何在AS中配置人机界面，并且学会制作一个简单的画面。
