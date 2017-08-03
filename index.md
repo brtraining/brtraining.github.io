@@ -46,11 +46,20 @@ TM2XX系列为PLC与IO相关内容的培训手册，其中TM210最为基础与�
 
 TM4XX系列为运动相关的培训手册，主要介绍伺服运动的配置和编程等内容。TM410为此系列中的基础文档。通过TM410，你可以了解AS中伺服控制器和电机的配制方法，并且能够通过AS调试电机。
 
-[TM410_ASiM基础V3090](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM410TRE.30-ZHO_ASiM%E5%9F%BA%E7%A1%80V3090.pdf)
+[TM410_ASiM基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM410TRE.30-ZHO_ASiM%E5%9F%BA%E7%A1%80V3090.pdf)
 
-[TM440_运动控制基本功能](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM440TRE.00_ZHO_ASiM%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD_V3090.pdf)
+[TM410_ASiM基础英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM410TRE.40-ENG_Working%20with%20Integrated%20Motion%20Control_V4100.pdf)
 
-[TM441_多轴功能函数](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM441TRE.00_ZHO%E5%A4%9A%E8%BD%B4%E5%8A%9F%E8%83%BD%E5%87%BD%E6%95%B0_V3090.pdf)
+
+[TM440_运动控制基本功能中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM440TRE.00_ZHO_ASiM%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD_V3090.pdf)
+
+[TM440_运动控制基本功能英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM440TRE.42-ENG_Motion%20Control%20-%20Basic%20Functions_V4200_MpAxis.pdf)
+
+
+[TM441_多轴功能函数中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM441TRE.00_ZHO%E5%A4%9A%E8%BD%B4%E5%8A%9F%E8%83%BD%E5%87%BD%E6%95%B0_V3090.pdf)
+
+[TM441_多轴功能函数英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM441TRE.42-ENG_Motion%20Control%20electronic%20gears%20and%20cam%20profiles_MpAxis_V4200.pdf)
+
 
 [TM450_ACOPOS Control Concept and Configuration 英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM450TRE.42-ENG_ACOPOS%20Control%20Concept%20and%20Configuration_V4200.pdf)
 
