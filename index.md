@@ -18,17 +18,28 @@ fei.liu@br-automation.com
 
 TM2XX系列为PLC与IO相关内容的培训手册，其中TM210最为基础与关键。属于AS软件的入门级文档。通过TM210你可以了解AS软件的主要界面基本功能。通过TM210，你可以学会安装软件，新建项目，PLC与IO模块配置，在线连接等基本使用方法。
 
-[TM210_AS基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM210TRE.00-ZHO_Automation%20Studio%E5%9F%BA%E7%A1%80_V4225.pdf/)
+[TM210_AS基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM210TRE.00-ZHO_Automation%20Studio%E5%9F%BA%E7%A1%80_V4225.pdf/)
 
-[TM213_AS操作系统](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM213TRE.30-ZHO_Automation%20Studio%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F_V3090.pdf/)
+[TM213_AS操作系统中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM213TRE.30-ZHO_Automation%20Studio%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F_V3090.pdf/)
 
-[TM223_AS诊断工具](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM223TRE.30-ZHO_Automation%20Studio%E8%AF%8A%E6%96%AD_V3090.pdf)
+[TM213_AS操作系统英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM213TRE.425-ENG_Automation%20Runtime_V4250.pdf)
 
-[TM240_梯形图](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM240TRE.00_LD%E6%A2%AF%E5%BD%A2%E5%9B%BE_V3090.pdf)
 
-[TM246_结构化文本](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM246TRE.00_ST%E7%BB%93%E6%9E%84%E5%8C%96%E6%96%87%E6%9C%AC_V3090.pdf)
+[TM223_AS诊断工具中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM223TRE.30-ZHO_Automation%20Studio%E8%AF%8A%E6%96%AD_V3090.pdf)
 
-[TM250_AS内存管理与数据存储](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM250TRE.00_Automation%20Studio%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8_V4010.pdf)
+[TM223_AS诊断工具英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM223TRE.40-ENG_Automation%20Studio%20Diagnostics_V4250.pdf)
+
+[TM240_梯形图中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM240TRE.00_LD%E6%A2%AF%E5%BD%A2%E5%9B%BE_V3090.pdf)
+
+[TM240_梯形图英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM240TRE.00-ENG_Ladder%20Diagram%20(LAD)_V4250.pdf)
+
+
+[TM246_结构化文本中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM246TRE.00_ST%E7%BB%93%E6%9E%84%E5%8C%96%E6%96%87%E6%9C%AC_V3090.pdf)
+
+[TM246_结构化文本英文版]()
+
+
+[TM250_AS内存管理与数据存储中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM250TRE.00_Automation%20Studio%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8_V4010.pdf)
 
 
 #####  TM4XX（运动控制）
