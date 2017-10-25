@@ -100,7 +100,7 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 #### 培训视频
 训视频可以在爱慕课的这个网站看到最新资料,建议看基础培训视频，由于视频录制的时候版本可能和你当前使用的版本不一定相同，如果视频中画面和你当前软件不同，请理解。如果有看不懂的地方，请发送邮件到fei.liu@br-automation.com咨询
 
-[贝加莱培训视屏](http://www.aiimooc.com/mall/list.php?catid=391)
+[贝加莱培训视频](http://www.aiimooc.com/mall/list.php?catid=391)
 
 
 ###  贝加莱编程软件Automation Studio下载
