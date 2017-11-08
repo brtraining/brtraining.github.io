@@ -104,7 +104,7 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 
 
 ###  贝加莱编程软件Automation Studio下载
-[下载链接](https://www.br-automation.com/zh/xia4zai3/software/automation-studio/automation-studio-43/dwldwl10000489725/)
+[下载链接](https://www.br-automation.com/zh/xia4zai3/software/automation-studio/automation-studio-42/dwldwl10000343742/)
 
 ### 贝加莱选型手册专区
 以下为贝加莱产品选型专区，如有需要请尽情下载：）
