@@ -13,9 +13,9 @@ fei.liu@br-automation.com
 2018贝加莱的培训流程相较与2017会有比较大的改变，其中包括培训课程的设置和报名的方式均有不同。如您需要报名参加贝加莱2018年的培训课程。请下载贝加莱培训流程，并仔细阅读文档条款，如有疑问，请联系fei.liu@br-automation.com 
 
 
-[贝加莱培训指南2018]()
+[贝加莱培训指南2018](https://github.com/brtraining/brtraining.github.com/raw/master/Training2018/贝加莱培训指南2018.docx/)
 
-[2018贝加莱培训申请表](https://github.com/brtraining/brtraining.github.com/raw/master/Training2018/2018贝加莱培训申请表.docx/)
+[贝加莱培训申请表2018](https://github.com/brtraining/brtraining.github.com/raw/master/Training2018/贝加莱培训申请表2018.docx/)
 
 
 
