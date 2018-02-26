@@ -46,7 +46,7 @@ TM2XX系列为PLC与IO相关内容的培训手册，其中TM210最为基础与�
 
 [TM246_结构化文本中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM246TRE.00_ST%E7%BB%93%E6%9E%84%E5%8C%96%E6%96%87%E6%9C%AC_V3090.pdf)
 
-[TM246_结构化文本英文版]()
+[TM246_结构化文本英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM246TRE.00-ENG_Structured Text (ST)_V3090.pdf)
 
 
 [TM250_AS内存管理与数据存储中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM250TRE.00_Automation%20Studio%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8_V4010.pdf)
@@ -86,20 +86,20 @@ TM6XX系列为人机界面相关培训手册，主要用于介绍上位界面的
 [TM640_报警与趋势图和诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM640TRE.30_ZHO%E6%8A%A5%E8%AD%A6%EF%BC%8C%E8%B6%8B%E5%8A%BF%E5%9B%BE%E5%92%8C%E8%AF%8A%E6%96%AD_V3090.pdf)
 
 
-[TM640_报警与趋势图和诊断英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM640TRE.30-ENG_Alarms%2C%20Trends%20and%20Diagnostics_V4100.pdf)
+[TM640_报警与趋势图和诊断英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM640TRE.30-ENG_Alarms%2C%20Trends%20and%20Diagnostics_V4100.pdf)
 
 
-[TM670_ADvanced HMI 英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM670TRE.40-ENG_Advanced%20Visual%20Components_V4100.pdf)
+[TM670_ADvanced HMI 英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM670TRE.40-ENG_Advanced%20Visual%20Components_V4100.pdf)
 
 
-[TM611_MappView基础中文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM6XX_ZHO/TM611TRE.425_ZHO_MappView%E5%9F%BA%E7%A1%80.pdf)
+[TM611_MappView基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM611TRE.425_ZHO_MappView%E5%9F%BA%E7%A1%80.pdf)
 
-[TM611_MappView基础英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM6XX_ZHO/TM611TRE.433-ENG_Working with mapp View_V5.0.pdf)
+[TM611_MappView基础英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM611TRE.433-ENG_Working with mapp View_V5.0.pdf)
 
-[TM641_MappView英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM6XX_ZHO/TM641TRE.433-ENG_Display alarms, diagrams and data in mapp View_V5.0.pdf)
+[TM641_MappView英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM641TRE.433-ENG_Display alarms, diagrams and data in mapp View_V5.0.pdf)
 
 
-[TM671_MappView高级英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM6XX_ZHO/TM671TRE.433-ENG_Creating powerful mapp View visualizations_mv_V5.0.pdf)
+[TM671_MappView高级英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM671TRE.433-ENG_Creating powerful mapp View visualizations_mv_V5.0.pdf)
 
 
 #### TM9XX（终端用户维护）
@@ -124,9 +124,9 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 
 #### 大而全系列
 
-[2016产品选型手册 英文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/Control%2C%20HMI%20%26%20Motion%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C2016.pdf)
+[2016产品选型手册 英文版](https://github.com/brtraining/brtraining.github.com/raw/master/User%20Manual/Control%2C%20HMI%20%26%20Motion%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C2016.pdf)
 
-[X20系列选型手册中文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/X20%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C_%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+[X20系列选型手册中文版](https://github.com/brtraining/brtraining.github.com/raw/master/User%20Manual/X20%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C_%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 #### 小而精系列
 
@@ -134,11 +134,11 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 
 [X20CP13系列带REACTION手册英文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/X20CP13%E7%B3%BB%E5%88%97%E5%B8%A6REACTION%E6%89%8B%E5%86%8C%E8%8B%B1%E6%96%87%E7%89%88.pdf)
 
-[X20CPx58x系列英文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/X20CPx58x-ENG.pdf)
+[X20CPx58x系列英文版](https://github.com/brtraining/brtraining.github.com/raw/master/User%20Manual/X20CPx58x-ENG.pdf)
 
-[C70系列英文版](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/C70%E7%B3%BB%E5%88%97%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C%E8%8B%B1%E6%96%87%E7%89%88.pdf)
+[C70系列英文版](https://github.com/brtraining/brtraining.github.com/raw/master/User%20Manual/C70%E7%B3%BB%E5%88%97%E9%80%89%E5%9E%8B%E6%89%8B%E5%86%8C%E8%8B%B1%E6%96%87%E7%89%88.pdf)
 
-[ACOPOS P3配置解析及配置案例V0.00](https://github.com/brtraining/brtraining.github.com/blob/master/User%20Manual/ACOPOS%20P3%E9%85%8D%E7%BD%AE%E8%A7%A3%E6%9E%90%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%A1%88%E4%BE%8BV0.00.pdf)
+[ACOPOS P3配置解析及配置案例V0.00](https://github.com/brtraining/brtraining.github.com/raw/master/User%20Manual/ACOPOS%20P3%E9%85%8D%E7%BD%AE%E8%A7%A3%E6%9E%90%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%A1%88%E4%BE%8BV0.00.pdf)
 
 
 
