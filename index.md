@@ -96,8 +96,6 @@ TM6XX系列为人机界面相关培训手册，主要用于介绍上位界面的
 
 [TM611_MappView基础英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM611TRE.433-ENG_Working with mapp View_V5.0.pdf)
 
-[TM641_MappView英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM6XX_ZHO/TM641TRE.433-ENG_Display%20alarms%2C%20diagrams%20and%20data%20in%20mapp%20View_V5.0%20.pdf)
-
 
 [TM641_MappView英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM641TRE.433-ENG_Display%20alarms%2C%20diagrams%20and%20data%20in%20mapp%20View_V5.0%20.pdf)
 
