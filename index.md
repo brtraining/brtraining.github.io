@@ -20,7 +20,7 @@ fei.liu@br-automation.com
 #### AS无法注册或者无法申请注册码的处理方式
 以下是几个AS安装后可能遇到的问题的处理方式
 
-[Automation Studio Evaluation License无法提交申请表单的解决方法](https://github.com/brtraining/brtraining.github.com/raw/master/Training2018/AS注册码无法提交申请表单的解决方法.pdf/)
+[AS注册码无法提交申请表单的解决方法](https://github.com/brtraining/brtraining.github.com/raw/master/Training2018/AS注册码无法提交申请表单的解决方法.pdf/)
 
 
 [AS注册报错问题解决方式](https://github.com/brtraining/brtraining.github.com/raw/master/Training2018/AS注册报错问题解决方式.pdf/)
