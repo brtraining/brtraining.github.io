@@ -17,6 +17,13 @@ fei.liu@br-automation.com
 
 [贝加莱培训申请表2018](https://github.com/brtraining/brtraining.github.com/raw/master/Training2018/贝加莱培训申请表2018.pdf/)
 
+#### AS无法注册或者无法申请注册码的处理方式
+以下是几个AS安装后可能遇到的问题的处理方式
+
+[Automation Studio Evaluation License无法提交申请表单的解决方法_V01](https://github.com/brtraining/brtraining.github.com/raw/master/Training2018/Automation Studio Evaluation License无法提交申请表单的解决方法_V01.pdf/)
+
+[AS注册报错问题解决方式](https://github.com/brtraining/brtraining.github.com/raw/master/Training2018/AS注册报错问题解决方式.pdf/)
+
 
 
 ## 培训手册 TM系列
