@@ -1,4 +1,4 @@
-### 欢迎进入贝加莱资料共享平台
+﻿### 欢迎进入贝加莱资料共享平台
 ```markdown
 本平台目的：本平台旨在为贝加莱使用者提供便捷的资料下载途径以及课程报名方式。
 如有任何建议与及意见，请联系如下邮箱
@@ -38,24 +38,24 @@ TM2XX系列为PLC与IO相关内容的培训手册，其中TM210最为基础与�
 
 [TM213_AS操作系统中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM213TRE.444_ZHO_AR操作系统_V4440.pdf/)
 
-[TM213_AS操作系统英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM213TRE.444-ENG_Automation%20Runtime_V4440.pdf)
+[TM213_AS操作系统英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM213TRE.444-ENG_Automation%20Runtime_V4440.pdf/)
 
-[TM223_AS诊断工具中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM223TRE.444_ZHO_Automation%20Studio诊断.pdf)
+[TM223_AS诊断工具中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM223TRE.444_ZHO_Automation%20Studio诊断.pdf/)
 
-[TM223_AS诊断工具英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM223TRE.444-ENG_Automation%20Studio%20Diagnostics_V4440.pdf)
+[TM223_AS诊断工具英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM223TRE.444-ENG_Automation%20Studio%20Diagnostics_V4440.pdf/)
 
-[TM240_梯形图中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM240TRE.00_ZHO_梯形图_4250.pdf)
+[TM240_梯形图中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM240TRE.00_ZHO_梯形图_4250.pdf/)
 
-[TM240_梯形图英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM240TRE.00-ENG_Ladder%20Diagram%20(LAD)_V4250.pdf)
+[TM240_梯形图英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM240TRE.00-ENG_Ladder%20Diagram%20(LAD)_V4250.pdf/)
 
 
-[TM246_结构化文本中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM246TRE.00_结构化文本_V4440.pdf)
+[TM246_结构化文本中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM246TRE.00_结构化文本_V4440.pdf/)
 
-[TM246_结构化文本英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM246TRE.00-ENG_Structured%20Text%20(ST)_V3090.pdf)
+[TM246_结构化文本英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM246TRE.00-ENG_Structured%20Text%20(ST)_V3090.pdf/)
 
-[TM250_AS内存管理与数据存储中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM250TRE.433_ZHO_AS内存管理与数据存储_V4330.pdf)
+[TM250_AS内存管理与数据存储中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM250TRE.433_ZHO_AS内存管理与数据存储_V4330.pdf/)
 
-[TM250_AS内存管理与数据存储英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM250TRE.433-ENG_Memory%20Management%20and%20Data%20Storage_ms5.0.pdf)
+[TM250_AS内存管理与数据存储英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM250TRE.433-ENG_Memory%20Management%20and%20Data%20Storage_ms5.0.pdf/)
 
 
 
@@ -63,51 +63,51 @@ TM2XX系列为PLC与IO相关内容的培训手册，其中TM210最为基础与�
 
 TM4XX系列为运动相关的培训手册，主要介绍伺服运动的配置和编程等内容。TM410为此系列中的基础文档。通过TM410，你可以了解AS中伺服控制器和电机的配制方法，并且能够通过AS调试电机。
 
-[TM410_ASiM基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM410TRE.433_ZHO_运动控制基础_V4330.pdf)
+[TM410_ASiM基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM410TRE.433_ZHO_运动控制基础_V4330.pdf/)
 
-[TM410_ASiM基础英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM410TRE.433-ENG_Working%20with%20Integrated%20Motion%20Control_V4330.pdf)
-
-
-[TM440_运动控制基本功能中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM440TRE.00_ZHO_运动控制单轴编程_V4330.pdf)
-
-[TM440_运动控制基本功能英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM440TRE.433-ENG_Motion%20Control%20-%20Basic%20Functions_V4330_MpAxis.pdf)
+[TM410_ASiM基础英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM410TRE.433-ENG_Working%20with%20Integrated%20Motion%20Control_V4330.pdf/)
 
 
-[TM441_多轴功能函数中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM441TRE.433_ZHO_多轴功能函数_V4330.pdf)
+[TM440_运动控制基本功能中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM440TRE.00_ZHO_运动控制单轴编程_V4330.pdf/)
 
-[TM441_多轴功能函数英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM441TRE.433-ENG_Motion%20Control%20electronic%20gears%20and%20cam%20profiles_MpAxis_V4330.pdf)
+[TM440_运动控制基本功能英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM440TRE.433-ENG_Motion%20Control%20-%20Basic%20Functions_V4330_MpAxis.pdf/)
 
 
-[TM450_ACOPOS Control Concept and Configuration 英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM450TRE.433-ENG_ACOPOS%20Control%20Concept%20and%20Configuration_V5.0.pdf)
+[TM441_多轴功能函数中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM441TRE.433_ZHO_多轴功能函数_V4330.pdf/)
+
+[TM441_多轴功能函数英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM441TRE.433-ENG_Motion%20Control%20electronic%20gears%20and%20cam%20profiles_MpAxis_V4330.pdf/)
+
+
+[TM450_ACOPOS Control Concept and Configuration 英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM450TRE.433-ENG_ACOPOS%20Control%20Concept%20and%20Configuration_V5.0.pdf/)
 
 
 #### TM6XX(人机界面）
 
 TM6XX系列为人机界面相关培训手册，主要用于介绍上位界面的配置和编辑。TM610为此系列文档中的基础文档。通过TM610，你可以了解到如何在AS中配置人机界面，并且学会制作一个简单的画面。
 
-[TM610_界面基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM610TRE.40_ZHO_VC4人机界面基础_V4000.pdf)
+[TM610_界面基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM610TRE.40_ZHO_VC4人机界面基础_V4000.pdf/)
 
-[TM610_界面基础英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM610TRE.40-ENG_Working%20with%20Integrated%20Visualization_V4000.pdf)
-
-
-[TM640_报警与趋势图和诊断中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM640TRE.30_ZHO_报警，趋势图和诊断_V3090.pdf)
+[TM610_界面基础英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM610TRE.40-ENG_Working%20with%20Integrated%20Visualization_V4000.pdf/)
 
 
-[TM640_报警与趋势图和诊断英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM640TRE.30-ENG_Alarms,%20Trends%20and%20Diagnostics_V4200.pdf)
+[TM640_报警与趋势图和诊断中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM640TRE.30_ZHO_报警，趋势图和诊断_V3090.pdf/)
 
 
-[TM670_ADvanced HMI 英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM670TRE.40-ENG_Advanced%20Visual%20Components_V4200.pdf)
+[TM640_报警与趋势图和诊断英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM640TRE.30-ENG_Alarms,%20Trends%20and%20Diagnostics_V4200.pdf/)
 
 
-[TM611_MappView基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM611TRE.444_ZHO_MappView基础_V4440.pdf)
-
-[TM611_MappView基础英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM611TRE.444-ENG_Working%20with%20mapp%20View5.3_V4440.pdf)
+[TM670_ADvanced HMI 英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM670TRE.40-ENG_Advanced%20Visual%20Components_V4200.pdf/)
 
 
-[TM641_MappView英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM641TRE.444-ENG_Alarms,%20charts,%20data%20in%20mapp%20View_V5.3.pdf)
+[TM611_MappView基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM6XX_ZHO/TM611TRE.444_ZHO_MappView基础_V4440.pdf/)
+
+[TM611_MappView基础英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM611TRE.444-ENG_Working%20with%20mapp%20View5.3_V4440.pdf/)
 
 
-[TM671_MappView高级英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENGTM671TRE.444-ENG_Creating%20powerful%20mapp%20View%20visualizations_mv_V5.3.pdf)
+[TM641_MappView英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM641TRE.444-ENG_Alarms,%20charts,%20data%20in%20mapp%20View_V5.3.pdf/)
+
+
+[TM671_MappView高级英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENGTM671TRE.444-ENG_Creating%20powerful%20mapp%20View%20visualizations_mv_V5.3.pdf/)
 
 
 #### TM9XX（终端用户维护）
