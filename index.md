@@ -40,7 +40,7 @@ TM2XX系列为PLC与IO相关内容的培训手册，其中TM210最为基础与�
 
 [TM213_AS操作系统英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM213TRE.444-ENG_Automation%20Runtime_V4440.pdf/)
 
-[TM223_AS诊断工具中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM223TRE.444_ZHO_Automation%20Studio诊断.pdf/)
+[TM223_AS诊断工具中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM223TRE.444_ZHO_Automation%20Studio诊断_V4440.pdf/)
 
 [TM223_AS诊断工具英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM223TRE.444-ENG_Automation%20Studio%20Diagnostics_V4440.pdf/)
 
