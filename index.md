@@ -42,7 +42,7 @@ TM2XX系列为PLC与IO相关内容的培训手册，其中TM210最为基础与�
 
 [TM223_AS诊断工具中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM223TRE.444_ZHO_Automation%20Studio诊断.pdf/)
 
-[TM223_AS诊断工具英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM223TRE.444-ENG_Automation%20Studio%20Diagnostics_V4440.pdf/)
+[TM223_AS诊断工具英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM223TRE.444-ENG_Automation%20Studio%20Diagnostics_V4440.pdf/)
 
 [TM240_梯形图中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM240TRE.00_ZHO_梯形图_4250.pdf/)
 
@@ -65,7 +65,7 @@ TM4XX系列为运动相关的培训手册，主要介绍伺服运动的配置和
 
 [TM410_ASiM基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM410TRE.433_ZHO_运动控制基础_V4330.pdf/)
 
-[TM410_ASiM基础英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM410TRE.433-ENG_Working%20with%20Integrated%20Motion%20Control_V4330.pdf/)
+[TM410_ASiM基础英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM410TRE.433-ENG_Working%20with%20Integrated%20Motion%20Control_V4330.pdf/)
 
 
 [TM440_运动控制基本功能中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM4XX_ZHO/TM440TRE.00_ZHO_运动控制单轴编程_V4330.pdf/)
@@ -107,7 +107,7 @@ TM6XX系列为人机界面相关培训手册，主要用于介绍上位界面的
 [TM641_MappView英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM641TRE.444-ENG_Alarms,%20charts,%20data%20in%20mapp%20View_V5.3.pdf/)
 
 
-[TM671_MappView高级英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENGTM671TRE.444-ENG_Creating%20powerful%20mapp%20View%20visualizations_mv_V5.3.pdf/)
+[TM671_MappView高级英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM671TRE.444-ENG_Creating%20powerful%20mapp%20View%20visualizations_mv_V5.3.pdf/)
 
 
 #### TM9XX（终端用户维护）
@@ -115,7 +115,7 @@ TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。
 
 [TM920_终端用户维护](https://github.com/brtraining/brtraining.github.com/raw/master/TM9XX_ZHO/TM920TRE.00-ZHO_诊断与终端用户服务.pdf)
 
-[TM923_通过AS维护与诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM923TRE.40_ZHO_使用%20Automation%20Studio诊断和服务_V4000.pdf)
+[TM923_通过AS维护与诊断](https://github.com/brtraining/brtraining.github.com/raw/master/TM9XX_ZHO/TM923TRE.40_ZHO_使用%20Automation%20Studio诊断和服务_V4000.pdf)
 
 
 #### 培训视频
