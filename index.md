@@ -36,14 +36,14 @@ fei.liu@br-automation.com
 
 TM2XX系列为PLC与IO相关内容的培训手册，其中TM210最为基础与关键。属于AS软件的入门级文档。通过TM210你可以了解AS软件的主要界面基本功能。通过TM210，你可以学会安装软件，新建项目，PLC与IO模块配置，在线连接等基本使用方法。
 
-[TM210_AS基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM210TRE.00-ZHO_Automation Studio基础_V4440.pdf/)
+[TM210_AS基础中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM210TRE.00-ZHO_Automation%20Studio基础_V4440.pdf/)
 
 [TM213_AS操作系统中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM213TRE.444_ZHO_AR操作系统_V4440.pdf/)
 
-[TM213_AS操作系统英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM213TRE.425-ENG_Automation%20Runtime_V4250.pdf)
+[TM213_AS操作系统英文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM42ENG/TM213TRE.425-ENG_Automation%20Runtime_V4250.pdf)
 
 
-[TM223_AS诊断工具中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM223TRE.30-ZHO_Automation%20Studio%E8%AF%8A%E6%96%AD_V3090.pdf)
+[TM223_AS诊断工具中文版](https://github.com/brtraining/brtraining.github.com/raw/master/TM2XX_ZHO/TM223TRE.444_ZHO_Automation%20Studio诊断.pdf)
 
 [TM223_AS诊断工具英文版](https://github.com/brtraining/brtraining.github.com/blob/master/TM42ENG/TM223TRE.40-ENG_Automation%20Studio%20Diagnostics_V4250.pdf)
 
