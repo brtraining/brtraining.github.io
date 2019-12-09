@@ -15,7 +15,7 @@ training.cn@br-automation.com
 
 [贝加莱培训指南2020](https://github.com/brtraining/brtraining.github.com/raw/master/Training2018/2020贝加莱培训指南V0 .pdf/)
 
-
+ 
 #### AS无法注册或者无法申请注册码的处理方式
 以下是几个AS安装后可能遇到的问题的处理方式
 
