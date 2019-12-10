@@ -13,7 +13,7 @@ training.cn@br-automation.com
 如您需要报名参加贝加莱2020年的培训课程。请下载贝加莱培训流程，并仔细阅读文档条款，如有疑问，请联系training.cn@br-automation.com 
 
 
-[贝加莱培训指南2020](https://github.com/brtraining/brtraining.github.com/raw/master/Training2018/2020贝加莱培训指南V0 .pdf/)
+[贝加莱培训指南2020](https://github.com/brtraining/brtraining.github.io/raw/master/Training2018/2020贝加莱培训指南V0.pdf)
 
  
 #### AS无法注册或者无法申请注册码的处理方式
