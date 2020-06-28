@@ -113,7 +113,7 @@ TM6XX系列为人机界面相关培训手册，主要用于介绍上位界面的
 TM5XX为安全系列培训手册。
 [TM500_安全概念](https://github.com/brtraining/brtraining.github.com/raw/master/TM9XX_ZHO/TM920TRE.00-ZHO_诊断与终端用户服务.pdf)
 
-[TM510_安全基础](https://github.com/brtraining/brtraining.github.com/raw/master/TM9XX_ZHO/TM920TRE.00-ZHO_诊断与终端用户服务.pdf)
+[TM510_安全基础](https://github.com/brtraining/brtraining.github.io/blob/master/TM510%20Working%20with%20SafeDESIGNER_43.pdf)
 
 #### TM9XX（终端用户维护）
 TM9XX是专门针对终端用户的使用文档。适用于各级终端用户。即便你没有源程序，也仍旧可以通过本系列文档做出简单的维护与诊断，非常有助于排故。TM920介绍的是客户连AS都没有的情况下都可以实现的维护诊断方法。TM923则更深入一步，需要客户安装AS，然后借由AS来对项目实现维护与诊断的工作。（特别注意：装了AS也不能够实现PLC的源程序上载）。
